@@ -5,23 +5,23 @@ const TopButton = () => {
     const cities = [
         {
             id:1,
-            title: "London"
+            title: "Delhi"
         },
         {
             id:2,
-            title: "Sydney"
+            title: "Uttar Pradesh"
         },
         {
             id:3,
-            title: "Tokyo"
+            title: "Goa"
         },
         {
             id:4,
-            title: "Toronto"
+            title: "Haryana"
         },
         {
             id:5,
-            title: "Paris"
+            title: "Rajasthan "
         }
     ]
 

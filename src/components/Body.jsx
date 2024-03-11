@@ -1,4 +1,6 @@
+import Forecast from "./Forecast";
 import Inputs from "./Inputs";
+import TempuratureAndDetails from "./TempuratureAndDetails";
 import TimeAndLocation from "./TimeAndLocation";
 import TopButton from "./TopButton";
 
@@ -8,6 +10,8 @@ const Body = () => {
             <TopButton />
             <Inputs />
             <TimeAndLocation />
+            <TempuratureAndDetails />
+            <Forecast />
         </div>
     )
 }
